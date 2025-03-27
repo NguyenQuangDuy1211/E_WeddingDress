@@ -1,0 +1,231 @@
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll.config
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.pdb
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe.config
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.rsp
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe.config
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.rsp
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.AppContext.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Collections.Immutable.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Console.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Globalization.Calendars.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Http.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Sockets.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.ValueTuple.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe.config
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.rsp
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe.config
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Memory.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Memory.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.AssemblyReference.cache
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.CoreCompileInputs.cache
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\obj\Debug\E_Weddin.5FDA41E7.Up2Date
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.dll
+D:\HaUI\Period 5\PTDATMDT\BTL\E_WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.pdb
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll.config
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.pdb
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe.config
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.rsp
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe.config
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.rsp
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.AppContext.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Collections.Immutable.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Console.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Globalization.Calendars.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Http.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Sockets.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.ValueTuple.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe.config
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.rsp
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe.config
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Memory.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Memory.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.AssemblyReference.cache
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.CoreCompileInputs.cache
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_Weddin.5FDA41E7.Up2Date
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.dll
+D:\SVDHCN\PTUDTMDT\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.pdb
+D:\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.AssemblyReference.cache
+D:\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.csproj.CoreCompileInputs.cache
+D:\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.dll
+D:\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_WeddingDressShop.pdb
+D:\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll.config
+D:\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\E_WeddingDressShop.pdb
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.exe.config
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csc.rsp
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.exe.config
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\csi.rsp
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.AppContext.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Collections.Immutable.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Console.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Globalization.Calendars.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Http.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Net.Sockets.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.ValueTuple.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.exe.config
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\vbc.rsp
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe
+D:\WeddingDressShop\E_WeddingDressShop\bin\roslyn\VBCSCompiler.exe.config
+D:\WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Memory.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\BCrypt.Net-Next.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Buffers.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Memory.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Numerics.Vectors.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WeddingDressShop\E_WeddingDressShop\obj\Debug\E_Weddin.5FDA41E7.Up2Date
+D:\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\Newtonsoft.Json.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Common.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Configuration.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Frameworks.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Packaging.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Versioning.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Collections.Immutable.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Text.Encodings.Web.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Text.Json.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Threading.Tasks.Extensions.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.ValueTuple.dll
+D:\WeddingDressShop\E_WeddingDressShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\Newtonsoft.Json.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Common.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Configuration.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Frameworks.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Packaging.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\NuGet.Versioning.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Collections.Immutable.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Text.Encodings.Web.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Text.Json.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.Threading.Tasks.Extensions.xml
+D:\WeddingDressShop\E_WeddingDressShop\bin\System.ValueTuple.xml

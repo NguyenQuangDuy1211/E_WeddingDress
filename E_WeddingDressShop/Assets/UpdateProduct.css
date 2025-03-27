@@ -1,0 +1,111 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main container */
+.container {
+    width: 70%;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+/* Table for form inputs */
+.product-table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+    .product-table th, .product-table td {
+        padding: 12px;
+        text-align: left;
+    }
+
+    .product-table th {
+        width: 20%;
+    }
+
+    .product-table td {
+        width: 80%;
+    }
+
+/* Input fields */
+.input-field {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+    .input-field:focus {
+        outline: none;
+        border-color: #66afe9;
+        background-color: #fff;
+    }
+
+/* File input */
+.input-file {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+/* Upload message */
+.upload-message {
+    color: #e53935;
+    font-size: 12px;
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.btn-save, .btn-cancel {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.btn-save {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+    .btn-save:hover {
+        background-color: #45a049;
+    }
+
+.btn-cancel {
+    background-color: #f44336;
+    color: white;
+    border: none;
+}
+
+    .btn-cancel:hover {
+        background-color: #e53935;
+    }
+
+/* Message label */
+.message-label {
+    color: #555;
+    font-style: italic;
+    margin-top: 15px;
+    text-align: center;
+}
